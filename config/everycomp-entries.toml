@@ -696,6 +696,9 @@
 		[entries.wood_type.shutter]
 			shutter = true
 
+		[entries.wood_type.eibons_deco]
+			park_bench = true
+
 		[entries.wood_type.storagedrawers]
 			full_drawers_2 = true
 			full_drawers_4 = true
@@ -708,9 +711,6 @@
 		[entries.wood_type.create]
 			window_pane = true
 			window = true
-
-		[entries.wood_type.eibons_deco]
-			park_bench = true
 
 		[entries.leaves_type.chipped]
 			magenta_flower_leaves = true
