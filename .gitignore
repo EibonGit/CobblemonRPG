@@ -1,0 +1,8 @@
+logs/
+crash-reports/
+saves/
+runtime/
+screenshots/
+*.bat
+*.tmp
+*.lock
