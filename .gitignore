@@ -1,16 +1,38 @@
-# runtime
-logs/
+.mixin.out/
+# config
 crash-reports/
-debug/
-
-# world
-world/
+data/
+defaultconfigs/
+downloads/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+emojiful/
+emotes/
+journeymap/
+logs/
+moddata/
+# mods
+moonlight-global-datapacks/
+natives/
+patchouli_books/
+resourcepacks/
 saves/
-
-# cache
-libraries/
-versions/
-
-# misc
-*.log
-*.tmp
+schematics/
+screenshots/
+server-resource-packs/
+# shaderpacks
+waypoints/
+command_history.txt
+emi.json
+NeoForge Pokemon TEST.jar
+NeoForge Pokemon TEST.json
+observable_announce
+# options.txt
+parchouli_data.json
+pixe.dat
+pixelc.dat
+servers.dat
+servers.dat_old
+TlauncherAdditional.json
+usercache.json
+usernamecache.json
