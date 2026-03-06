@@ -1,8 +1,16 @@
+# runtime
 logs/
 crash-reports/
+debug/
+
+# world
+world/
 saves/
-runtime/
-screenshots/
-*.bat
+
+# cache
+libraries/
+versions/
+
+# misc
+*.log
 *.tmp
-*.lock
